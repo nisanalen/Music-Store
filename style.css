@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color: red;
+}
+
+body{
+    background-color: #E9ECEF;
+}
+
+h2{
+    text-align: center;
+    color: purple;
+}
+
+h3{
+    color: darkgoldenrod;
+}
+
+.index-h3{
+    text-align: center;
+}
+
+nav ul{
+    list-style-type: none;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bottom-ul{
+    padding-right: 50%;
+    padding-left: 50%;
+}
+
+.products-img{
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+
+.products-p{
+    text-align: center;
+}
